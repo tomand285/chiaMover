@@ -11,11 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/tomand285/chiaMover.git"
   },
-  "keywords": ["chia"],
+  "keywords": [
+    "chia"
+  ],
   "author": "Andrew Tomko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tomand285/chiaMover/issues"
   },
-  "homepage": "https://github.com/tomand285/chiaMover#readme"
+  "homepage": "https://github.com/tomand285/chiaMover#readme",
+  "dependencies": {
+    "node-scp": "0.0.14"
+  }
 }
