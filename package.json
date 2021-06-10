@@ -1,0 +1,21 @@
+{
+  "name": "chia_mover",
+  "version": "1.0.0",
+  "description": "An application that moves chia plots from the plotter to the farmer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomand285/chiaMover.git"
+  },
+  "keywords": ["chia"],
+  "author": "Andrew Tomko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomand285/chiaMover/issues"
+  },
+  "homepage": "https://github.com/tomand285/chiaMover#readme"
+}
